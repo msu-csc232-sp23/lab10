@@ -30,7 +30,7 @@ After cloning this repository, open [lab10.docx](resource/lab10.docx). Use whate
 
 ## Submission Details
 
-Once you have completed filling out the details in the Word document, submit this in Blackboard.
+Once you have completed filling out the details in the Word document, submit this in Microsoft Teams.
 
 ### Grading Rubric
 
