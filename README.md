@@ -22,7 +22,7 @@ Upon successful completion of this lab, the student shall gain an understanding 
 
 ## Getting Started
 
-After accepting this assignment with the provided [GitHub Classroom Assignment link](https://classroom.github.com/a/n7WGepA7), clone this repository. Included in the [resource](resource) directory is a Microsoft Word file to be filled in and submitted.
+After accepting this assignment with the provided [GitHub Classroom Assignment link](https://classroom.github.com/a/1E8aeIeZ), clone this repository. Included in the [resource](resource) directory is a Microsoft Word file to be filled in and submitted.
 
 ## Tasks
 
