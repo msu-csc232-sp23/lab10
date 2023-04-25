@@ -1,4 +1,4 @@
-# Lab07 - Sort Algorithms Complexity Analysis
+# Lab10 - Sort Algorithms Complexity Analysis
 
 In this lab we investigate the run-time and spacial complexity of several common sorting algorithms.
 
